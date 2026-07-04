@@ -6,9 +6,11 @@
 | PrimeReact-style landing + docs | ✅ |
 | Studio showcase (Vite) | ✅ |
 | `component:build` → dist | ✅ |
-| Vercel [uilerial.vercel.app](https://uilerial.vercel.app) | ⏳ deploy |
+| Vercel [uilerial.vercel.app](https://uilerial.vercel.app) | ✅ |
+| Studio on npm `@techlestial/uilerial@^2.0.0` (not vendor tarball) | ✅ |
+| Legacy `react-xper*` URLs → 308 redirect | ✅ |
 | npm `@techlestial/uilerial@2.0.0` on GitHub Packages | ✅ |
-| npm `@techlestial/uilerial@2.0.0` on npmjs.com | ⏳ run Release workflow with `npm_otp` or Bypass 2FA token |
+| npm `@techlestial/uilerial@2.0.0` on npmjs.com | ✅ |
 
 ## Brand
 
